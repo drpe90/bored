@@ -1,6 +1,6 @@
-// API url: http://www.boredapi.com/api/activity/
+// API url: https://www.boredapi.com/api/activity/
 
-const url = "http://www.boredapi.com/api/activity/";
+const url = "https://www.boredapi.com/api/activity/";
 
 const btn = document.querySelector(".button");
 const result = document.querySelector(".result");
